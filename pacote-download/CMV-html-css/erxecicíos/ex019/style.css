@@ -14,10 +14,26 @@ h1{
 
 h1#principal{
     text-align: center;
-    background-color: green;
     color: rgb(129, 182, 125);
 }
 
 h2{
     color: greenyellow;
+}
+
+.basico{
+    color: green;
+    font-weight: 900;
+}
+
+.intermediario{
+    color: yellow;
+}
+
+.avancado{
+    color: red;
+}
+
+.destaque{
+    background-color: blueviolet;
 }
